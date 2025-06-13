@@ -8,6 +8,7 @@
     <img src="https://github.com/Mehrnoushk/AmberMD_WSL/blob/main/assets/alanine_dipeptide_traj.gif" width="75%">
 </div>
 
+- The animation shows 1 in 400 simulated timesteps.
 ---
 
 ## Overview

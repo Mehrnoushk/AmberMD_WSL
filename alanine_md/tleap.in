@@ -1,0 +1,8 @@
+
+    source leaprc.protein.ff19SB
+    source leaprc.water.tip3p
+    diala = sequence { ACE ALA NME }
+    solvateoct diala TIP3PBOX 10.0
+    saveamberparm diala parm7 rst7
+    quit
+    

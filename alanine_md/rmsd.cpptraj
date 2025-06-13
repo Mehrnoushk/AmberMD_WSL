@@ -1,0 +1,7 @@
+trajin 02_Heat.nc
+trajin 03_Prod.nc
+reference 01_Min.ncrst
+autoimage
+center :1-3 mass origin
+image origin center
+rms reference mass out 02_03.rms time 2.0 :2

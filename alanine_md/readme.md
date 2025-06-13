@@ -6,6 +6,9 @@ Based on [Simple Simulation of Alanine Dipeptide*](https://ambermd.org/tutorials
 - Plots are available under [assets](https://github.com/Mehrnoushk/AmberMD_WSL/tree/main/assets)
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/Mehrnoushk/AmberMD_WSL/main/assets/MD_Summary.png" width="75%">
+    <img src="https://github.com/Mehrnoushk/AmberMD_WSL/blob/main/assets/MD_traj.png" width="50%">
 </div>
 
+<div style="text-align: center;">
+    <img src="https://github.com/Mehrnoushk/AmberMD_WSL/blob/main/assets/alanine_dipeptide_traj.gif" width="50%">
+</div>

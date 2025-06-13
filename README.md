@@ -3,6 +3,11 @@
 [AmberMD_WSL jupyter notebook](https://github.com/Mehrnoushk/AmberMD_WSL/blob/main/AmberMD_WSL.ipynb) aims to assist with running **Amber "Simple Simulation of Alanine Dipeptide" tutorial** using AmberTools on Windows Subsystem for Linux (WSL)  
 (derived from the official tutorial [“Simple Simulation of Alanine Dipeptide”](https://ambermd.org/tutorials/basic/tutorial0/)).
 
+
+<div style="text-align: center;">
+    <img src="https://github.com/Mehrnoushk/AmberMD_WSL/blob/main/assets/alanine_dipeptide_traj.gif" width="75%">
+</div>
+
 ---
 
 ## Overview
